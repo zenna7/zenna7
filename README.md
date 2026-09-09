@@ -59,10 +59,13 @@ Binary classification of physical motion in text, based on the LiMiT dataset, co
 
 ---
 
-## 📁 Other Projects
+## 📁 Other Projects and University Assignments
 
 - **[Planisuss](https://github.com/zenna7/planisuss)** — a small ecosystem simulation (Vegetob, Erbast, Carviz) built in Python and matplotlib; final exam project for the joint Bachelor in AI (Pavia / Milano-Bicocca / Milano Statale).
 - **[Health Insurance Cross-Sell Prediction](https://github.com/zenna7/health-insurance-cross-sell-prediction)** — ML project predicting cross-sell interest in vehicle insurance for health insurance clients, covering imbalanced classification, feature engineering and nested cross-validation.
+- **[Classification and Bounding Boxes Deep Learning](https://github.com/zenna7/classification-and-bounding-box-deep-learning)** - DL project to predict both the class and the bounding boxes around the subject; supervised learning.
+- **[AI Bachelor assignments](https://github.com/zenna7/ai-bachelor-labs-and-assignments)** - collection of all the assignments and knowledge collect during my bachelor studies in AI.
+- **[Imaging Master assignments](https://github.com/zenna7/imaging-master-labs-and-assignments)** - collection of all the assignments and knowledge collect during my ongoing master in Imaging.
 
 ---
 
