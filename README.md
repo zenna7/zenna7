@@ -49,18 +49,17 @@ A subjective quality study comparing natural, CGI, and AI-generated images under
 - Streamlit app used to collect the survey responses
 - MOS scoring and mixed-effects statistical analysis of the results
 - `Python` `Streamlit` `Statistics`
-
-### [LiMiT Motion Detection](https://github.com/zenna7/LiMiT-motion-detection)
-Binary classification of physical motion in text, based on the LiMiT dataset, comparing classical and neural approaches end to end.
-- TF-IDF, Word2Vec and FastText embeddings feeding LSTM, Transformer, and fine-tuned DistilBERT models
-- Best F1 of 0.83 (Transformer+FastText and DistilBERT)
-- Co-built with [Giorgia Nava](https://github.com/gionava03-ux) — I led the modeling and evaluation
-- `Python` `NLP` `PyTorch` `Hugging Face`
-
+- 
+- **[Independence City Finder](https://github.com/javjerez/Independence-city-finder)** — An interactive visual analytics dashboard for evaluating 138 cities based on financial, residential, and lifestyle factors; developed for a Visualization course during my Master in Imaging.
+- Implements coordinated multiple views (interactive maps, radar profiles, bar charts) and a custom composite scoring system with user-defined weights for *what-if* analysis
+- [Live demo](https://javjerez.github.io/Independence-city-finder/)
+- Co-built with [Javier Jerez Reinoso](https://github.com/javjerez) — hosted on his repo
+- `JavaScript` `D3.js` `Python` `Data Visualization`
+- 
 ---
 
 ## 📁 Other Projects and University Assignments
-
+- **[LiMiT Motion Detection](https://github.com/zenna7/LiMiT-motion-detection)** — NLP project for binary classification of physical motion in text, comparing classical embeddings and neural models (LSTM, Transformer, fine-tuned DistilBERT) using PyTorch and Hugging Face.
 - **[Planisuss](https://github.com/zenna7/planisuss)** — a small ecosystem simulation (Vegetob, Erbast, Carviz) built in Python and matplotlib; final exam project for the joint Bachelor in AI (Pavia / Milano-Bicocca / Milano Statale).
 - **[Health Insurance Cross-Sell Prediction](https://github.com/zenna7/health-insurance-cross-sell-prediction)** — ML project predicting cross-sell interest in vehicle insurance for health insurance clients, covering imbalanced classification, feature engineering and nested cross-validation.
 - **[Classification and Bounding Boxes Deep Learning](https://github.com/zenna7/classification-and-bounding-box-deep-learning)** - DL project to predict both the class and the bounding boxes around the subject; supervised learning.
