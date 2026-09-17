@@ -49,13 +49,14 @@ A subjective quality study comparing natural, CGI, and AI-generated images under
 - Streamlit app used to collect the survey responses
 - MOS scoring and mixed-effects statistical analysis of the results
 - `Python` `Streamlit` `Statistics`
-- 
-- **[Independence City Finder](https://github.com/javjerez/Independence-city-finder)** — An interactive visual analytics dashboard for evaluating 138 cities based on financial, residential, and lifestyle factors; developed for a Visualization course during my Master in Imaging.
+
+### [Independence City Finder](https://github.com/javjerez/Independence-city-finder) 
+An interactive visual analytics dashboard for evaluating 138 cities based on financial, residential, and lifestyle factors; developed for a Visualization course during my Master in Imaging.
 - Implements coordinated multiple views (interactive maps, radar profiles, bar charts) and a custom composite scoring system with user-defined weights for *what-if* analysis
 - [Live demo](https://javjerez.github.io/Independence-city-finder/)
 - Co-built with [Javier Jerez Reinoso](https://github.com/javjerez) — hosted on his repo
 - `JavaScript` `D3.js` `Python` `Data Visualization`
-- 
+
 ---
 
 ## 📁 Other Projects and University Assignments
